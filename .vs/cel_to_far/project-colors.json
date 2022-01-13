@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1e04534-4f2a-43b4-82ad-1a9aa4e03ff8": {
+      "ProjectGuid": "a1e04534-4f2a-43b4-82ad-1a9aa4e03ff8",
+      "DisplayName": "cel_to_far",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
